@@ -1,0 +1,2 @@
+"""Nonprofit realtime notification example."""
+
